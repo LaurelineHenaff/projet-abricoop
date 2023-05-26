@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'SimpleHandmade';
+  font-style: normal;
+  src: url('simpleHandmade2/SimpleHandmade.otf') format('otf'),
+       url('simpleHandmade2/SimpleHandmade.ttf') format('truetype')
+}
+
+li{
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  padding: 8px;
+  border: 1px solid black;
+  background-color: lightblue;
+}
+
+th, td {
+  text-align: center;
+  padding: 8px;
+  border: 1px solid black;
+}
+
+th, h2{
+  font-weight: normal;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  text-align: center;
+  padding-top: 1.5rem;
+  background-color: #C2EEFF;
+  font-family: 'SimpleHandmade';
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
