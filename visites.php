@@ -2,9 +2,9 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Projet Abricoop</title>
+    <title>Visites</title>
     <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" type="image/ico" href="img/infirmiere.ico" />
+    <link rel="shortcut icon" href="infirmiere.ico" type="image/x-icon"/>
   </head>
 
   <body>    

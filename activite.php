@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>Activités</title>
     <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" type="image/ico" href="img/activites.ico"/>
+    <link rel="shortcut icon" href="activites.ico" type="image/x-icon"/>
   </head>
 
   <body>
