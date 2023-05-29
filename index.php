@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <title>Abricoop</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" type="image/ico" href="img/abricoop.ico" />
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/ico" href="abricoop.ico" />
   </head>
 
   <body>

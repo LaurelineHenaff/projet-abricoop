@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Visites</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
     <link rel="shortcut icon" href="infirmiere.ico" type="image/x-icon"/>
   </head>
 
@@ -27,7 +27,7 @@
       echo "<br>";
       foreach($visites as $v){
         echo "<input type='radio' name=visite id='visite".$v['idHabitant']."' value='".$v['idHabitant']."'>";
-        echo "<label for='visite'".$v['idHabitant']."'>".$v['nom']." ".$v['prenom']."</label><br>";
+        echo "<label for='visite'".$v['idHabitant']."'>".$v['prenom']." ".$v['nom']."</label><br>";
         echo "<br>";
       }
       echo "<input type='submit' value='Go'></form>";

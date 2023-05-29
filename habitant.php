@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <title>Habitants</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" type="image/ico" href="img/bonhomme.ico" />
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="habitant.ico" type="image/x-icon"/>
   </head>
 
   <body>

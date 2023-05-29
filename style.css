@@ -1,8 +1,8 @@
 @font-face {
   font-family: 'SimpleHandmade';
   font-style: normal;
-  src: url('simpleHandmade2/SimpleHandmade.otf') format('otf'),
-       url('simpleHandmade2/SimpleHandmade.ttf') format('truetype')
+  src: url('SimpleHandmade.otf') format('otf'),
+       url('SimpleHandmade.ttf') format('truetype')
 }
 
 li{
@@ -42,7 +42,8 @@ body{
   text-align: center;
   padding-top: 1.5rem;
   background-color: #C2EEFF;
-  font-family: 'SimpleHandmade';
+  font-family: "SimpleHandmade";
+  font-size: 1.5rem;
 }
 
 tr:nth-child(even) {background-color: #f2f2f2;}
