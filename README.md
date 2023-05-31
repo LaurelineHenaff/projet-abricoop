@@ -1,3 +1,3 @@
 # projet-abricoop
 ## Projet Bases de données (SQL) et PHP
-_Laurine, Laureline._
+_Laurine, Laureline_
